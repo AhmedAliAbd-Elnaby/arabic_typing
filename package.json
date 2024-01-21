@@ -1,7 +1,7 @@
 {
   "name": "typing-game",
   "private": true,
-  "homepage": "https://AhmedAliAbd-Elnaby.github.io/Arabic-Typing-",
+  "homepage": "https://AhmedAliAbd-Elnaby.github.io/arabic_typing",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "arabic_typing -d build"
   },
   "dependencies": {
     "build": "^0.1.4",
